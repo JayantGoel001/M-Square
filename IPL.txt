@@ -1,0 +1,55 @@
+ Saturday,March 23:1.Chennai Super Kings vs Royal Challengers Bangalore . 8pm IST in Chennai
+Sunday,March 24:2.Mumbai Indians vs Delhi Capitals . 8pm IST in Delhi
+Monday,March 25:3.Rajasthan Royals vs Kings XI Punjab . 8pm IST in Jaipur
+Tuesday,March 26:4.Delhi Capitals vs Chennai Super Kings . 8pm IST in Delhi
+Wednesday,March 27:5.Kolkata Knight Riders vs Kings XI Punjab . 8pm IST in Kolkata
+Thursday,March 28:6.Royal Challengers Bangalore vs Mumbai Indians . 8pm IST in Bengaluru
+Friday,March 29:7.Sunrisers Hyderabad vs Rajasthan Royals . 8pm IST in Hyderabad
+Saturday,March 30:8.Kings XI Punjab vs Mumbai Indians . 4pm IST in Mohali
+Saturday,March 30:9.Delhi Capitals vs Kolkata Knight Riders . 8pm IST in Delhi
+Sunday,March 31:10.Sunrisers Hyderabad vs Royal Challengers Bangalore . 4pm IST in Hyderabad
+Sunday,March 31:11.Chennai Super Kings vs Rajasthan Royals . 8pm IST in Chennai
+Monday,April 1:12.Kings XI Punjab vs Delhi Capitals . 8pm IST in Mohali
+Tuesday,April 2:13.Rajasthan Royals vs Royal Challengers Bangalore . 8pm IST in Jaipur
+Wednesday,April 3:14.Mumbai Indians vs Chennai Super Kings . 8pm IST in Mumbai
+Thursday,April 4:15.Delhi Capitals vs Sunrisers Hyderabad . 8pm IST in Delhi
+Friday,April 5:16.Royal Challengers Bangalore vs Kolkata Knight Riders . 8pm IST in Bengaluru
+Saturday,April 6:17.Chennai Super Kings vs Kings XI Punjab . 4pm IST in Chennai
+Saturday,April 6:18.Sunrisers Hyderabad vs Mumbai Indians . 8pm IST in Hyderabad
+Sunday,April 7:19.Royal Challengers Bangalore vs Delhi Capitals . 4pm IST in Bangalore
+Sunday,April 7:20.Rajasthan Royals vs Kolkata Knight Riders . 8pm IST in Jaipur
+Monday,April 8:21.Kings XI Punjab vs Sunrisers Hyderabad . 8pm IST in Mohali
+Tuesday,April 9:22.Chennai Super Kings vs Kolkata Knight Riders . 8pm IST in Chennai
+Wednesday,April 10:23.Mumbai Indians vs Kings XI Punjab . 8pm IST in Mumbai
+Thursday,April 11:24.Rajasthan Royals vs Chennai Super Kings . 8pm IST in Jaipur
+Friday,April 12:25.Kolkata Knight Riders vs Delhi Capitals . 8pm IST in Kolkata
+Saturday,April 13:26.Mumbai Indians vs Rajasthan Royals . 4pm IST in Mumbai
+Saturday,April 13:27.Kings XI Punjab vs Royal Challengers Bangalore . 8pm IST in Mohali
+Sunday,April 14:28.Kolkata Knight Riders vs Chennai Super Kings . 4pm IST in Kolkata
+Sunday,April 14:29.Sunrisers Hyderabad vs Delhi Capitals . 8pm IST in Hyderabad
+Monday,April 15:30.Mumbai Indians vs Royal Challengers Bangalore . 8pm IST in Mumbai
+Tuesday,April 16:31.Kings XI Punjab vs Rajasthan Royals . 8pm IST in Mohali
+Wednesday,April 17:32.Sunrisers Hyderabad vs Chennai Super Kings . 8pm IST in Hyderabad
+Thursday,April 18:33.Delhi Capitals vs Mumbai Indians . 8pm IST in Delhi
+Friday,April 19:34.Kolkata Knight Riders vs Royal Challengers Bangalore . 8pm IST in Kolkata
+Saturday,April 20:35.Rajasthan Royals vs Mumbai Indians . 4pm IST in Jaipur
+Saturday,April 20:36.Delhi Capitals vs Kings XI Punjab . 8pm IST in Delhi
+Sunday,April 21:37.Sunrisers Hyderabad vs Kolkata Knight Riders . 4pm IST in Hyderabad
+Sunday,April 21:38.Royal Challengers Bangalore vs Chennai Super Kings . 8pm IST in Bangalore
+Monday,April 22:39.Rajasthan Royals vs Delhi Capitals . 8pm IST in Jaipur
+Tuesday,April 23:40.Chennai Super Kings vs Sunrisers Hyderabad . 8pm IST in Chennai
+Wednesday,April 24:41.Royal Challengers Bangalore vs Kings XI Punjab . 8pm IST in Bangalore
+Thursday,April 25:42.Kolkata Knight Riders vs Rajasthan Royals . 8pm IST in Kolkata
+Friday,April 26:43.Chennai Super Kings vs Mumbai Indians . 8pm IST in Chennai
+Saturday,April 27:44.Rajasthan Royals vs Sunrisers Hyderabad . 8pm IST in Jaipur
+Sunday,April 28:45.Delhi Capitals vs Royal Challengers Bangalore . 4pm IST in Delhi
+Sunday,April 28:46.Kolkata Knight Riders vs Mumbai Indians . 8pm IST in Kolkata
+Monday,April 29:47.Sunrisers Hyderabad vs Kings XI Punjab . 8pm IST in Hyderabad
+Tuesday,April 30:48.Royal Challengers Bangalore vs Rajasthan Royals . 8pm IST in Bangalore
+Wednesday,May 1:49.Chennai Super Kings vs Delhi Capitals . 8pm IST in Chennai
+Thursday,May 2:50.Mumbai Indians vs Sunrisers Hyderabad . 8pm IST in Mumbai
+Friday,May 3:51.Kings XI Punjab vs Kolkata Knight Riders . 8pm IST in Mohali
+Saturday,May 4:52.Delhi Capitals vs Rajasthan Royals . 4pm IST in Delhi
+Saturday,May 4:53.Royal Challengers Bangalore vs Sunrisers Hyderabad . 8pm IST in Bangalore
+Sunday,May 5:54.Kings XI Punjab vs Chennai Super Kings . 4pm IST in Mohali
+Sunday,May 5:55.Mumbai Indians vs Kolkata Knight Riders . 8pm IST in Mumbai

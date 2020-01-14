@@ -1,0 +1,10 @@
+ 	Team 	               Played 	Won 	Lost 	NR 	Net RR 	  Points
+1 	Chennai Super Kings 	10 	7 	3 	0 	+0.087     14
+2 	Mumbai Indians          10 	6 	4 	0 	+0.357	   12
+3       Delhi Capitals   	10 	6	4 	0 	+0.442     12
+4 	Kings XI Punjab 	9 	5 	4 	0 	-0.015 	   10
+5 	Sunrisers Hyderabad 	8 	4 	4 	0 	+0.549     10
+6 	Kolkata Knight Riders   10 	4 	6 	0 	-0.013 	   8
+7 	Rajasthan Royals 	9 	3 	6 	0 	-0.489     6
+8 	Royal Challengers 	10 	3 	7 	0 	-0.836     6
+        Bangalore
